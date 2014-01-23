@@ -5,7 +5,7 @@ Amy Lee (amylee@andrew.cmu.edu)
 Jennifer Meagan Lloyd (jmlloyd@andrew.cmu.edu)
 
 This is the source code for the F.R.V. (Full Room Visualizer), demonstrated at Carnegie Mellon University's 
-Build18 Symposium on January 17, 2013, in which contains two folders "Processing" and "Performance". 
+Build18 Symposium on January 17, 2014, in which contains two folders "Processing" and "Performance". 
 The Processing folder consists Matlab files that handle preprocessing of input song files. 
 The Performance folder contains the Processing program that interacts with the connected Arduino board along 
 to send data by serial, as well as the graphics display code code for each of the boards.
